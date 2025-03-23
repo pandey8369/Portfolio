@@ -1,58 +1,55 @@
 ![Alt Text](public/image.png)
 
+<h2 align="center">🚀 Portfolio Website</h2>
 
-Portfolio Website
-A dynamic and interactive portfolio website built using React, Node.js, Express, and CSS. This website showcases projects, skills, and experience in a modern and responsive design.
+<p align="center">
+  A dynamic and interactive portfolio website built using <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>CSS</b>.  
+  Showcasing projects, skills, and experience with a modern and responsive design.  
+</p>
 
-🚀 Features
-🌐 Multi-Page Layout – Organized sections for projects, about, and contact.
+<!--<p align="center">
+  <a href="https://yourportfolio.com" target="_blank"><strong>🔗 Live Demo »</strong></a>
+</p>-->
 
-🎨 Styled with CSS – Customizable styles with modern UI/UX.
+---
 
-⚡ Fast & Responsive – Optimized for performance and mobile-friendly.
+## 📌 Features  
 
-🔄 API Integration – Uses Node.js and Express.js for backend support.
+✅ **Multi-Page Layout** – Organized sections for projects, about, and contact.  
+🎨 **Styled with CSS** – Customizable styles with modern UI/UX.  
+⚡ **Fast & Responsive** – Optimized performance and mobile-friendly.  
+🔄 **API Integration** – Uses Node.js and Express.js for backend support.  
 
-🛠 Built With
-React.js – Frontend framework for interactive UI.
+---
 
-Node.js & Express.js – Backend for handling requests and API integration.
+## 🛠 Built With  
 
-CSS3 – Custom styling and animations.
+- 🚀 **React.js** – Frontend framework for interactive UI.  
+- 🌐 **Node.js & Express.js** – Backend for handling requests and API integration.  
+- 🎨 **CSS3** – Custom styling and animations.  
 
-🏗 Getting Started
-Prerequisites
-Ensure you have Node.js and npm installed.
+---
 
-Installation
-Clone the repository:
+## 🚀 Getting Started  
 
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-Install dependencies:
+### Prerequisites  
+Ensure you have **Node.js** and **npm** installed.  
 
-sh
-Copy
-Edit
-npm install
-Start the development server:
+### Installation  
 
-sh
-Copy
-Edit
-npm start
+```sh
+# Clone the repository  
+git clone https://github.com/pandey8369/Portfolio.git
+cd portfolio  
+
+# Install dependencies  
+npm install  
+
+# Start the development server  
+npm start  
+```
 Open http://localhost:3000 to view in the browser.
 
 📌 Usage
-Navigate to the /src/components/ folder to customize content.
-
-Update project details, skills, and about sections as needed.
-
-🤝 Contributing
-Feel free to fork this repository, make modifications, and submit pull requests!
-
-⭐ Show Your Support
-If you like this project, consider giving it a star! 🚀
+📂 Navigate to the /src/components/ folder to customize content. <br>
+🛠 Update project details, skills, and about sections as needed.
